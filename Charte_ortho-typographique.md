@@ -1,0 +1,256 @@
+# Bienvenue sur la charte typo de Journalistes Solidaires !
+
+Elle sert avant tout à aider les nouveaux⸱elles rédacteur⸱ice⸱s/SR et à sauver la santé mentale de toute l’équipe.
+
+Les secrétaires de rédaction sont chargé⸱e⸱s de **la relecture** de votre papier, de **sa vérification** et de **sa correction**. Comme la charge de travail va être de plus en plus conséquente, nous attirons l’attention de chacun sur l’importance de vous relire avant de soumettre le texte à sa correction. En plus d’être des excellent⸱e⸱s journalistes, vous êtes des vérificateur⸱ice⸱s. Vous devez porter une grande attention sur l’importance de chiffres exacts et de sources fiables, surtout dans notre domaine qu’est le fact-checking.
+
+
+
+> 
+> « Ce qui se conçoit bien s'énonce clairement et les mots pour le dire arrivent aisément » 
+> Boileau
+> 
+
+
+# Bonnes pratiques
+
+
+- Pour rappel, une fois votre article ou votre post passé dans l’Airtable, il faut passer le papier en statut « ******En attente de relecture** »
+
+
+- MAIS SURTOUT, il faut rentrer les fabuleu⸱x⸱ses relecteur⸱rice⸱s dans la case dédiée à cet effet pour qu’il⸱elle⸱s reçoivent une notification. 
+
+
+- Une fois la relecture terminée, le⸱la relecteur⸱rice rentre la⸱le correcteur⸱rice dans le champ dédié.
+
+
+- Le mieux c’est de tou•te•s les mentionner, pour que ça se passe le plus rapidement. En gros, on travaille sur la règle du prem’s, le⸱la premier⸱e de dispo prend l’article et vire les autres.
+
+
+# La rigueur du FC
+
+Encore une fois, vous êtes dans un collectif de *fact checking*, la rigueur doit vous accompagner partout. On va préférer la qualité et la justesse d’une info à la quantité.
+
+L’erreur est complètement humaine, mais nous ne sommes pas assez aujourd’hui pour vérifier chaque mot utilisé.
+
+Si on parle d’une source (pour le *fact checking*) ou d’un article de média (pour le *reposting*), on s’assure d'avoir bien compris le message.
+
+Pour le reposting, la règle des 5W est votre meilleur allié (**What, Who, When, Where, Why**).
+
+On hiérarchise ses informations. Pour le post Facebook, on veut savoir pourquoi c’est faux ou non. La réaction de Madame Michu ne nous intéresse pas.
+
+Sur 800 caractères, il est nécessaire de donner la bonne information, d’aller directement au message. Même si vous partagez l’article après, on perd des lecteur⸱ice⸱s qui ne vont jamais cliquer et donc jamais avoir la bonne réponse.
+
+Posez vous la question de : qu’est-ce que je veux dire ? Qu’est-ce qui est important dans cet article ?
+
+# Ton utilisé
+
+⚠️ **Ce qui suit est à observer avec la plus grande importance**
+
+Chaque plume est différente, mais il est nécessaire de rester cohérent sur le ton utilisé. Au risque de nous répéter, **on fait du fact checking**, nous devons rester neutres. Nous aurons un débat plus tard sur l’objectivité journalistique autour d’une bière post-confinement, MAIS :
+
+
+- Notre écriture doit aller droit au but. On évite la broderie avec des expressions qui pourront facilement être reprises contre nous.
+
+
+> « on l’attendait tous », « ce fait n’est pas surprenant »
+
+
+- Nous allons traiter des sujets très délicats où on aura envie de prendre position, mais on évite le plus possible. Il s’agit ici d’éliminer toute sorte de de jugements de valeur, mais également la condescendance à l’égard de nos lecteurs : une nouvelle fausse a nécessité d’être vérifiée, ce n’est pas nécessaire de dire « Bien évidemment »  ou « Bien-sûr» c’est faux.
+
+
+- De manière générale, lorsque vous désignez quelqu’un ou quelque chose et que vous souhaitez employer des adjectifs, demandez-vous en quoi cette qualification apporte de l’information utile à votre papier. Aide-t-elle à comprendre ?
+
+
+- Il ne faut pas oublier que la crise que nous traversons est grave, sans précédents, que des gens y ont perdu la vie, d’autre ont perdu un⸱e proche. Sans mettre trop de drama dans les articles, il est important de ne pas non-plus trop prendre à la légère les informations.
+
+
+# Format de l’article
+
+
+## La taille
+
+La taille de l’article dépend du contenu de votre débunkage : demandez-vous toujours si ce que vous expliquez est utile à la compréhension de l’article ou à la réponse de la question posée.
+Attention de ne pas faire trop long, on reste sur le web, la concentration est très limitée.
+Dans l’idéal, on compte deux pages de texte word (en caractère 12 interligne normal) GRAND MAXIMUM.
+
+
+## Titre 
+
+90 signes (espace compris) grand maximum.
+Il doit être informatif, donner les mots-clefs en début (référencement) et être incitatif.
+Il reprend l’angle de l’article.
+Le titre accroche le regard, donner l’essentiel de l’info tout en donnant envie de lire l’article
+
+
+## Chapô
+
+Le chapô standard fait 2/3 lignes soit 250-300 signes max. 
+Il reprend les éléments du titre et les développe. La redondance est utile pour le référencement.
+L’actualité et les mots-clés doivent être posés au début du chapô.
+Mais surtout il doit directement répondre à la conclusion de l’enquête (c’est faux, c’est vrai) et au petit picto qui l’accompagne à côté sur le site. Le chapô doit donc directement annoncer la fake news.
+
+
+## L’accroche 
+
+L’attaque d’un papier n’est pas une intro de dissert.
+Les toutes premières phrases de l’article doivent capter l’attention du lecteur. Elle plonge le⸱la lecteur⸱ice directement dans le sujet, même si c’est à travers une anecdote : une photographie écrite, une formule détournée, crée, une citation, un paradoxe, une affirmation (assez inattendue), etc …
+
+
+## L’intertitre
+
+L’intertitre est une respiration dans le texte. Il permet d’enchaîner les idées tout en soutenant la lecture et en structurant le propos.
+Pour le rédiger, on cherche dans les paragraphes des mots repères, chargés d’information, évocateurs et capables de relancer l’intérêt.
+
+
+## Les citations
+
+La retranscription d’une interview doit être la plus précise possible. Il faut garder un langage écrit sans changer le sens des propos de notre interviewé⸱e. Merci d’être vigilant⸱e devant le langage parlé. 
+
+Néanmoins, une citation reste une citation, ce n’est pas notre propos. Il ne s’agit pas ici de dénaturer le contenu de l’enquête. Nous demandons donc aux SR de toucher les citations si et seulement si on voit des fautes d’orthographes. Sinon merci d’en avertir le⸱la rédacteur⸱ice/coordinateur⸱ice afin d’éviter tout droit de réponse.
+ 
+
+# Homogénéiser nos écritures
+
+
+## Comment on écrit le virus ?
+
+Dans cette période, on voit de nombreuses appellations pour le nouveau coronavirus. Il s’agirait ici d'homogénéiser son écriture pour l’ensemble de la rédaction. 
+
+On écrit **le Covid-19**, et c’est la seule écriture possible (on s’aligne sur les médecins).
+
+
+## Le sigle de JS
+
+Dans quelques minutes, nous parlerons des sigles, mais il est important de différencier le plus important : celui des JS. Pour ne pas altérer le sens de notre propos, on garde la double majuscule pour **les Journalistes Solidaires**.
+
+
+# Règles générales - Ortho/typo
+
+
+## Majuscules
+
+
+- On n’abuse pas des majuscules, à part pour écrire FAUX en gros dans les posts facebook et aguicher l’internaute.
+
+
+- Pour rappel, elle est utile en début de phrase, pour les noms propres et après les deux points quand on écrit une citation.
+
+
+- Vous hésitez encore sur la position de la majuscule entre deux termes. Le terme générique n’en prend pas, le spécifique si.
+
+
+> le ministère (terme générique) de l'Éducation (terme spécifique)
+
+
+- Pour les pays, les noms prennent des majuscules, pas les adjectifs. 
+
+
+>  un Belge / la frite belge
+
+
+- L’importance de la majuscule peut surtout tenir dans la signification du mot (par exemple un État/ l’état d’urgence). On peut aussi succomber à une petite majuscule si la compréhension du terme est altérée.
+
+
+- Toujours en minuscule : les titres (préfet⸱e, maire, ministre, président⸱e), les entités administratives si elles sont suivies par le nom propre (la Région a voté/ la région PACA est en bonne santé)
+
+
+
+## Guillemets
+
+
+- Les véritables guillemets sont ceux là : « … ».
+
+
+- On peut utiliser ceux-là  “” quand une personne en cite une autre, ou bien pour une émission ou une œuvre. Ils peuvent servir pour utiliser un mot avec réserve ou marquer la distance.
+
+
+
+## Italique
+
+
+- Pour les noms d’enseignes, titres de presse, d’œuvres artistiques (livre, film, chanson, tableau …)
+
+
+- Citations, locutions, mots latins et les mots étrangers (oui, les termes anglais comptent)
+
+
+
+## Sigle
+
+Pas de sigle ou d’abréviation dans les titres
+
+
+- On écrit toujours la signification d’un signe à sa première utilisation
+
+
+- Si ce sigle se prononce, c’est seulement la première lettre qui est en majuscule (Paca, Unicef). Sinon, tout en majuscules (RATP, SNCF)
+
+
+
+## Accents
+
+
+- Les majuscules aussi prennent un accent/une cédille : À, Ậ, Ç, È, É, Ê, Ë, Ô, etc ...
+
+Souvent, pour ajouter un accent grave, il suffit de faire AltGr+touche 7/è/`+maj+lettre 
+
+
+
+## Vocabulaire
+
+
+- On n’hésite pas à chercher des synonymes pour éviter les répétitions (Synonymo est un site très efficace)
+
+
+
+## Pronoms 
+
+
+- L’emploi du « vous» ou du « tu » pour s’adresser aux lecteur⸱ice⸱s est déconseillé, car très connoté communication de marque. Il est préférable d’employer une structure passive ou de reformuler votre phrase.
+
+
+- L’emploi du « nous dans les articles doit rester exceptionnel ; y préférer « Journalistes Solidaires a… »
+
+
+
+## Chiffres 
+
+
+- Les nombres sont écrits jusqu’à 24 en lettres
+
+
+- Les siècles s’écrivent en chiffres romains : XVème siècle
+
+
+## Fautes fréquentes
+
+
+- Suite à n’existe pas : À la suite de / Après
+- Voire même est un pléonasme
+- Par contre ne se dit pas, on dit En revanche
+- On N’oublie pas la négation même quand il y a une liaison (on n’arrive pas, on n’a pas pris)
+- Un tollé général ne se dit pas, un tollé est par définition général (pareil pour le terme consensus)
+- hasard imprévu, priorité principale, projet d’avenir : on vous évite les énumérations de termes farfelus.
+- Au minimum plutôt que a minima
+
+
+# Ressources
+
+Pour étoffer votre vocabulaire, ou être sûr d’une cooccurrence, le site canadien [Termium](https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra) est excellent. Le *Dictionnaire des cooccurrences* est un outil précieux pour quiconque hésite devant un mot, ne sachant quel adjectif qualificatif ou quel verbe lui conviendrait. On trouve dans cet ouvrage une liste de suggestions pour un grand nombre de substantifs français, y compris des termes nouveaux” 
+
+
+- [Dictionnaire des cooccurrences - TERMIUM Plus® - Bureau de la traduction](https://www.btb.termiumplus.gc.ca/tpv2guides/guides/cooc/index-fra.html?lang=fra) 
+
+De même, en cas de doute sur une règle que nous n’avons pas énoncée ici :
+
+[Recherche par chapitre - Le guide du rédacteur - TERMIUM Plus® - Bureau de la traduction](https://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra&lettr=chap_catlog&page=../srchparbychap) 
+
+
+
+
+
+
+
+
+

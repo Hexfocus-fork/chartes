@@ -1,0 +1,292 @@
+# Charte réseaux sociaux
+
+Vous trouverez ici tout ce qu'il faut savoir pour bien partager les publications de Journalistes Solidaires.
+
+Parce qu'on aime bien se répéter, **tout ce qui est valable typographiquement dans les articles de JS l'est aussi pour les partages sur les réseaux sociaux**.
+
+Les publications pour les réseaux sont réalisées par les rédacteur⸱ice⸱s, donc ces règles vous concernent tou⸱te⸱s. Comme dans les articles, mais plus encore car **nos réseaux sociaux constituent la vitrine** et souvent la porte d'accès à notre travail de *fact checking*, vous devez porter une grande attention à la réponse que vous donnez (vrai, faux, à nuancer), à l'exactitude de chiffres et à la fiabilité des sources.
+
+
+# **Facebook**
+## Priorité au format le plus accrocheur
+
+
+> Vidéo > pastille sonore > écrit 
+
+Il ne s’agit pas de juger de la qualité de votre travail, mais bien de réfléchir en fonction de la capacité de concentration et du scrolling vertical facile de l'internaute. Si vous avez doublé ou triplé les formats, ce sera la vidéo l'élément principal de l'article, avec bien entendu le chapeau et le lien vers l'article écrit dans le post.
+****
+
+## Des formats bien déterminés pour les publications (Enquêtes JS et Débunks externes)
+
+Modèles globaux assez similaires que ce soit pour les Enquêtes que pour les Repostings, mais avec leurs petites exceptions.
+
+**Pour les enquêtes JS**
+
+
+> C’EST AU ⸱ À LA JOURNALISTE DE CRÉER LES POSTS 
+
+Avant le post : 
+
+- Rédaction par les rédacteur⸱ice⸱s / vérificateur⸱ice⸱s 
+- Rédaction à partir de l’onglet « Posts Facebook » dans AirTable. 
+- Une fois écrit, passer la main en notifiant les correcteur⸱ice⸱s dans la case  « Relecture » attendre leur aval avant publication finale.
+- En général, le post reprend le chapô de l’article
+
+Titre (respecter les espaces) : [ Enquête Journalistes Solidaires ] [ Titre ] ❌ FAUX / ✅ VRAI/❌ ✅ PARTIELLEMENT VRAI / ⏱ TROP TÔT POUR LE DIRE
+Si l’article contient une vidéo : ne pas oublier de l’inclure (ajouter photo/vidéo) ! 
+→ La télécharger en natif une fois la rédaction ayant envoyé le lien de téléchargement.
+
+Corps de texte
+
+- Maximum de 300 caractères 
+- En 3 paragraphes explicatifs (reprendre le chapô de l’article) qui commencent obligatoirement par un emoji illustratif
+- Une phrase de conclusion sans oublier de @taguer le(s) JS auteur(s) du papier.
+
+Terminer le post par le lien de l’article JS.
+Attention à bien mettre le lien visible sur le site et pas le lien « *preview* » présent dans la fiche. 
+
+Une fois le lien ajouté : supprimer le https//:….. (car c’est pas le plus joli visuellement). 
+PAS DE PANIQUE : une fois chargé, le lien reste actif en se matérialisant par l’image cliquable sous le post.
+
+Si possible : ajouter au post une émotion, un lieu (Ex : Un débunk qui parle Chine, on check-in “Chine”).
+
+
+**Pour les repostings débunks**
+
+
+> C’EST AUX SR et AUX COMMUNITY MANAGER DE CRÉER LES POSTS 
+
+***À*** ***noter*** : ce paragraphe explique comment recenser/préparer des posts aux formats réseaux sociaux pour des articles déjà existants et rédigés par d’autres équipes (AFP Factuel, Les Décodeurs, CheckNews, ou revue de presse en général). Le processus se déroule en plusieurs étapes :
+
+- Veille des publications de fact-checking à l’aide des sources (onglet “Débunk Externes” dans Airtable ou trouvaille personnelle propice à en faire un Débunk)
+- Sélection par le rédacteur et attribution du post en l’ayant signalé en amont dans le canal #lereposting afin d’avoir le feu vert de la rédaction en chef (Le but : ne pas faire de doublon. 
+
+***Astuce*** *: pour être sûr(e) qu’un reposting n’est pas déjà paru, effectué une recherche à partir de la page Facebook JS dans la barre de recherche “Rechercher une publication sur cette page”, située à droite, avec les mots clefs du titre de l’article potentiellement déjà reposté.*
+
+- Rédaction à partir de l’onglet  « Posts Facebook » dans AirTable. 
+- Une fois écrit, passer la main en notifiant les correcteur⸱ice⸱s dans le champ « Relecture ». Quand l’article est prêt, le/la CM est identifié⸱e dans le champ « Community Management » et l’article est passé « En attente de publication »
+
+Titre (respecter les espaces) : [ Cellule Fact-Check- Média Originel ] [ Titre ] ❌ FAUX / ✅ VRAI/❌ ✅ PARTIELLEMENT VRAI / ❌ ✅ PAS TOUT À FAIT / ⏱ TROP TÔT POUR LE DIRE
+
+***NB*** : 
+
+- Si le titre est une question à laquelle on ne peut que répondre par OUI ou NON, possibilité réaménager avec un “✅❌ OUI MAIS… / ❌ ✅ NON MAIS…”
+- En ce qui concerne l'ordre et comment citer les médias sources, Ex : [ Les Décodeurs - Le Monde ] ; [ CheckNews - Libération ]. **Seule exception** : [ AFP Factuel ], car c’est une entité média/cellule de fact checking à elle toute seule.
+- Si l’article d’origine est en anglais, préciser qu’il s’agit d’une traduction selon l’exemple suivant : [ Traduction - Snopes ] ; [ Traduction - AFP Fact Check ] ; [ Traduction - Poynters ], etc. 
+
+***Précisions concernant les tags des médias sources :***
+
+- Dans le titre, taguer directement la cellule Factcheck et son média [ @cellule - @mediasource ] : un seul tag clair une fois pour toute pour l’ensemble du post.
+- Ne pas taguer une nouvelle fois la cellule Factcheck et son dans la tournure de fin (ancien "à lire/retrouver etc. sur @media") **MAIS** tout de même taguer le journaliste auteur quand y'en a un (valorisation du travail du journaliste).
+
+Exemple récapitulatif
+
+[ @Les Observateurs - @France 24 ] [ Des magasins chinois incendiés au Nigéria ? ] ✅❌ PAS TOUT À FAIT
+
+🎥 Vues plusieurs centaines de milliers de fois sur Facebook, WhatsApp et Twitter depuis le 19 avril, des vidéos montrent un bâtiment en flammes, tandis que des personnes courent dans la rue pour s’en éloigner.
+
+🔥Les images s’accompagnent d'une légende indiquant que le building en question abriterait des « magasins chinois brûlés au Nigeria ».
+
+⚠ Pour autant, si cet incendie a bien eu lieu le 15 avril 2020 au Nigéria, il ne s’agit pas de magasins chinois.
+
+👁‍ Pour découvrir les autres infox qui pullulent sur ce sujet, c’est à retrouver dans l’article de @Bidule 🔻
+
+*Coller ici le lien issu du site du média de publication et pas celui tiré des “Débunks Externes” de Airtable*
+
+**A NE PAS OUBLIER** : une fois chaque post publié (que ce soit une Enquête ou un Débunk) ne pas oublier de **renseigner le lien de la publication Facebook correspondante dans le champs dédié dans l’onglet “Posts Facebook” de AirTable**.
+Pourquoi ? Notamment si un problème est repéré dans le post, pouvoir le retrouver plus facilement dans la Page JS et procéder aux corrections éventuelles.
+
+
+**Des tags** 
+
+Pour augmenter le *reach* des publications JS, nous avons déterminé qu'il était utile de taguer les personnalités, expert⸱e⸱s ou journalistes cité⸱e⸱s dans les articles. Cela permet de porter à leur connaissance notre existence et potentiellement que l'actu soit partagée sur leur mur. 
+
+**Des émoticônes** 
+
+En début de chaque paragraphe pour illustrer le propos de ce dernier.
+
+**Et les erreurs quand il y en a ?**
+
+Le post est publié, les *Like* et partages fusent… mais, malheur, on se rend compte d’une faute d’orthographe, que la rédaction est confuse, ou pire, que l’information relayée est en fait une *fake* ***news*… pas de panique :
+
+- Principe de base : ne pas supprimer
+- En revanche, il faut bien corriger : mentionner en dessous du titre [EDIT] accompagné d’une phrase expliquant le pourquoi de cet *editing*. 
+
+L’objectif, c’est d’être dans une transparence totale avec notre méthode de partage. Si on se trompe, ce n’est pas grave, du moment que l’on est franc⸱he⸱s envers nos internautes.
+
+
+
+# **Twitter**
+
+Un tweet a un maximum de caractère qui est de 280 signes. Il n’est donc pas possible de suivre le même process que pour une publication Facebook. Il s’agit de créer des tweets concis, efficaces, qui ne contiennent pas trop d’éléments (les réflexes ne sont pas les mêmes sur FB et TW). 
+Généralement, le tweet arrive dans la foulée de la publication Facebook. 
+
+Nous avons un compte Twitter : **@JounalistesSol**. Il centralise nos enquêtes et les republications de factchecks externes. Un seul compte permet de ne pas éparpiller la base d’abonnées (mise en sommeil du compte JS_Enquête) 
+
+**Intitulé du compte**
+
+Journalistes Solidaires • Fact-checking 
+Vous nous demandez, nous vérifions [#JSvsFake](https://twitter.com/search?q=%23JSvsFake&src=hashtag_click) • [#Factchecking](https://twitter.com/search?q=%23Factchecking&src=hashtag_click) de toutes les informations douteuses relatives au [#COVID19](https://twitter.com/search?q=%23COVID19&src=hashtag_click) • Repost et [#FactCheck](https://twitter.com/search?q=%23FactCheck&src=hashtag_click) originaux
+
+
+**P****our les enquêtes JS**
+
+
+> C’EST AU COMMUNITY MANAGER DE CRÉER LES TWEETS
+
+Les rédacteurs ne doivent pas perdre de temps à rédiger le post FB + le post TW. C’est pour cela que le post TW doit uniquement reprendre les éléments du post FB, et doit être géré par le CM. Si un doute sur la tournure d’une phrase, l’orthographe d’un mot, ou tout problème édito, contacter un.e correcteur.trice. On insiste sur le fait que Twitter n’est qu’une reprise (arrangée) du post FB donc ne nécessite pas de travail de rédaction personnalisée ! 
+
+En-tête : [Enquêtes JS] *Titre/Question ?* ❌ FAUX / ✅ VRAI/ ❎ PARTIELLEMENT VRAI / ⏱ TROP TÔT POUR LE DIRE
+@machin et @bidule@ blablabla ➡️ lien de l’article 
+
+**OU**
+
+En-tête : #EnquêtesJS 
+*Titre/Question ?* ❌ FAUX / ✅ VRAI/ ❎ PARTIELLEMENT VRAI / ⏱ TROP TÔT POUR LE DIRE
+@machin et @bidule@ blablabla ➡️ lien de l’article 
+
+**OU**
+
+En-tête : [#EnquêtesJS] 
+*Titre/Question ?* ❌ FAUX / ✅ VRAI/ ❎ PARTIELLEMENT VRAI / ⏱ TROP TÔT POUR LE DIRE
+@machin et @bidule@ blablabla ➡️ lien de l’article 
+
+
+- Reprendre le titre/ la question exact(e) 
+- Ne reprendre que la phrase de conclusion + le lien vers l’article : généralement, la réadapter par rapport à celle de Facebook, essayer d’être un peu plus original afin de donner plus de volume au Tweet (jeu de mot, varier les tournures de phrases, etc…) sans pour autant en changer le sens ! 
+- @tag des journalistes : Pour JS… et surtout pas ~~Nos JS~~
+- Ne pas oublier LE LIEN VERS L’ARTICLE DU SITE 
+- Penser à insérer LA VIDÉO (dans le cas où le sujet à fait l’objet d’une vidéo) → pour cela, demander le lien WeTransfer sur le canal Vidéo dans le Discord, pour télécharger la vidéo et l’insérer directement dans le Tweet (maximum 2min20 OU 512 Mo) 
+
+
+- Nécessité de faire des thread ? *EN PARLER AVEC MATEUSZ*
+
+
+**Pour les repostings debunks** 
+
+
+> C’EST AU COMMUNITY MANAGER DE CRÉER LES TWEETS
+
+En-tête : *Question ?* ❌ FAUX / ✅ VRAI/❌✅ PARTIELLEMENT VRAI / ⏱ TROP TÔT POUR LE DIRE 
+@machin de @média vous explique tout ➡️ lien de l’article
+
+
+
+- Pour le titre, il s’agit d’être concis, et surtout ne pas “agresser” l’oeil. Se conter de @taguer le média (ou pas ?)
+- Ne reprendre que la phrase de conclusion + le lien vers l’article : l’adapter si besoin pour une meilleure compréhension (parfois, elle reprend des éléments qui étaient présents dans le corps de texte donc reformuler si nécessaire pour une meilleure compréhension)
+- ATTENTION : le lien ne peut pas être effacé comme dans la publication Facebook, donc ses caractères comptent comme les autres… 
+- En plus des #, bien penser à @taguer des personnes ou des médias, c’est à dire leurs signaler que nous mentionnons leur travail. Pour les reposting, il y a (presque) toujours le média/la cellule *fact* ***check* + le⸱la journaliste. 
+- Pour mentionner un site internet, parfois utile, reprendre le lien du site, en enlevant la première partie “https://”
+- Avant que le tweet ne soit publié, bien penser à copier le texte afin de remplir la partie “Texte” dans la fiche Twitter rattachée à la fiche Facebook sur AirTable. 
+
+**Et les erreurs quand il y en a ?**
+
+Si vous vous rendez-compte d’une faute d’orthographe assez majeure, ou d’une erreur de formulation, ne supprimez pas le Tweet ! 
+
+- Ajouter un tweet à la suite (ça créé donc thread), 
+- Commencer le tweet avec [EDIT] puis passer à la ligne, corriger la faute en reprenant la phrase, ou le titre
+- S’il s’agit d’une reformulation totale, qui a nécessité un débat au sein de la rédaction, le préciser “après discussion avec la rédaction, nous tenons à corriger…” 
+
+L’objectif, c’est d’être dans une transparence totale avec notre méthode de partage. Si on se trompe, ce n’est pas grave, du moment que l’on est franc⸱he⸱s envers nos internautes.
+
+**Bonnes pratiques**
+
+Sur Twitter, l’une des choses les plus importantes sont les # → ils vont permettre de gagner en visibilité, d’être dans l’algorithme de Twitter, et de toucher des gens qui sont attentifs à ces #. Pour être le plus efficace possible, il ne faut pas en abuser : **en moyenne 2 ou 3 par Tweet**. Il est possible d’en mettre dans le titre. 
+
+Ces # concernent généralement des mots-clés du tweet, des mots qui font l’actualité (ne pas hésiter à regarder ce que font les autres médias de réf. pour s’inspirer). Pour savoir si un # va être efficace, il suffit juste d’en mettre un devant un mot que vous jugez important dans le tweet comme par exemple “coronavirus”. Une liste déroulante va alors apparaître, avec tous les # possibles et déjà utilisés. Parfois, un # est en “tendance”, cela veut dire qu’il a été utilisé massivement ces dernières heures ou jours : toujours prendre celui-ci, ça place le tweet dans le flux et donc augmente les chances d’interaction. 
+
+Certains # vont être récurrents et à rajouter dans tous les posts : #JSvsFake, #FactCheck, #factchecking,
+ ****
+
+**Construction de listes** 
+
+Pour augmenter notre visibilité et notre base de données, nous construisons des listes Twitter : 
+
+- Mentors JS
+- Expert⸱e⸱s Fact checking (https://twitter.com/i/lists/1254100353475321860)  
+- Expert⸱e⸱s Santé (lié au contexte Covid-19)
+- Notre équipe de *débunkers* **(https://twitter.com/i/lists/1250826805893881857) 
+- Si vous avez d’autres idées… 
+
+
+
+## Modération du compte : que faire ?
+
+**Principe de base** : que ce soit répondre à un commentaire suite à une publication qu’à un message privé (MP) sur Messenger ou Twitter, adopter un ton “à la cool” tout en restant professionnel⸱le.
+
+**A garder en tête** : converser avec nos abonné⸱e⸱s, c’est souvent très enrichissant (un apport d’informations complémentaires pour l’internaute, la réception de questionnement et/ou de pistes vers de prochaines enquêtes pour les JS, par exemple). Toutefois, on ne reste pas à l’abri d’échanges qui peuvent dérailler. Si tel est le cas, il faut s'abstenir de réagir avec colère, même si on est attaqué, et toujours prendre du recul. Garder en tête qu’en répondant à un⸱e internaute, nous nous exprimons au nom du collectif : à chaque réponse, c’est son image et sa responsabilité qui sont en jeu.
+
+**Les commentaires publics**
+
+***Le commentaire est positif*** : liker au minimum, sachant qu’un cœur ou une réaction d’humeur ont plus de poids dans les algorithmes et donc permet au compte JS de gagner en visibilité. Ne pas hésiter à remercier du soutien.
+
+***Le commentaire est négatif*** : ne pas réagir.
+
+***Le commentaire remet en question/est en contradiction avec une information de la publication*** : rester cordial et jouer le rôle d'informateur⸱ice, d’éclaireur⸱euse, en apportant un contre argument (appuyer sur un lien vers une étude, un article sûr,…) qui soit constructif (aussi bien pour le⸱la commentateur⸱ice que pour les autres internautes qui pourraient vouloir en savoir plus, eux aussi). Par exemple sur les coulisses d'une couverture ou certains aspects de celle-ci (ambiance, anecdotes, etc.)
+→ L’objectif, finalement, c’est de rectifier calmement les informations véhiculées par l’internaute si elles sont fausses et en contradiction avec des faits sourcés par les JS (en interne ou ceux des médias *fact* ***checkers* dont nous partageons le travail).
+
+**Sur Messenger** **et Twitter** **: des réponses adaptées à chaque type de message**
+
+En bref :
+
+- Il s’agit d’un signalement original : encoder la source dans Airtable dans l’onglet « Signalement internaute », et lui attribuer le statut « Soumission internaute ».
+- Il s’agit d’un signalement qui nous a déjà été fait : indiquer que c’est en cours et que nous n’hésiterons pas à revenir vers lui⸱elle pour lui faire part de notre publication/rester alerte de notre publication à venir (vérifier tout de même si ce signalement apporte tout de même de nouveaux éléments)
+- Il s’agit d’un signalement que nous avons déjà traité en interne ou externe : envoyer le lien correspondant.
+- Il s’agit d’un signalement qui n'a absolument rien à voir : rester cordial⸱e et dire que ce n’est pas là notre boulot/nous ne sommes pas concerné⸱e⸱s. 
+- Il s’agit d’un signalement qui semble être une affaire intéressante mais qui n'est pas du *fact* ***checking*. Soumettre l’idée à la rédaction pour en discuter entre nous et envisager de filer le sujet à une rédaction partenaire qui pourrait être intéressée.
+
+Dans les détails :
+
+***“J’ai trouvé cette info suspecte, pouvez-vous faire quelque chose ?”***
+
+- Répondre que le signalement a bien été pris en compte, et remercier.
+- Chercher à savoir si nous avons pas encore traité le sujet ou pas. 
+
+Si oui, renvoyer l’internaute vers le contenu traité par JS (une enquête interne, un repost…). 
+Si non, plusieurs cas possibles :
+→ Cela pourrait faire une enquête JS : soumettre l’info à la rédaction et débattre en conférence de rédaction de la faisabilité du sujet
+→ Cela correspond à un *débunk* externe : voir si une rédaction *Fact-Check* à traité le sujet, rédiger le post correspondant et le mettre au programme des publications.
+**DANS TOUS LES CAS** : Toujours prendre soin de classer le signalement sur AirTable dans la catégorie correspondante ; Ne pas oublier, lorsque l’enquête ou le repost sort, de revenir vers l’internaute ayant signalé l’information et lui transmettre le travail de débunkage réalisé.
+
+***“Vous faites un excellent travail”***
+Remercier du soutien et ne pas hésiter à partager.
+
+***“Vous faites de la merde, merci pour votre travail de désinformation”***
+Rester cordial⸱e pour ne pas envenimer les choses ou se contenter d’un platonique “ok” ou ne pas répondre.
+
+
+
+# **Y****ouTube**
+
+Nous hébergeons toutes nos vidéos sur notre chaîne YouTube. 
+Pour cela, voici le process : 
+
+
+- Demander le lien WeTransfer pour télécharger la vidéo 
+- Aller dans le Youtube Studio, et sélectionner “Créer” puis “Importer des vidéos”
+- Importer la vidéo depuis votre ordinateur 
+- Dans “Détails” 
+- Comme titre, mettre tout simplement le titre du post, en simplifiant [ENQUÊTE JOURNALISTES SOLIDAIRES] en [ENQUÊTE] (car 100 caractères max donc ça fait peu) et  en supprimant juste le VRAI/FAUX/… 
+- En description de la vidéo, mettre tout simplement le texte de la publication Facebook. Supprimer seulement les Émojis. 
+- Rajouter également le texte suivant : 
+        Site Web : https://journalistessolidaires.com 
+        Facebook : https://www.facebook.com/journalistessolidaires/ 
+        Twitter : https://twitter.com/JournalistesSol 
+- Rajouter la date de publication de l’enquête à la toute fin sous cette forme : 1er mai 2020. 
+- En ce qui concerne la miniature de la vidéo (l’image que l’on verra sur YouTube lorsque la vidéo apparaitra), prendre une capture d’écran de la vidéo, au tout début, afin d’avoir la problématique à l’écran, assurant ainsi un cohérence, entre la vidéo et son titre, mais aussi une uniformité entre les vidéos. 
+- Pour finir, rendre la vidéo :  
+        Adaptée aux enfants 
+        Et la mettre dans la playlist « Enquête JS »
+- Ignorer l’étape “Éléments vidéo” 
+- Dans “Visibilité” : 
+        Rendre la vidéo publique (ou non répertoriée si l’article n’est pas encore prêt) 
+        
+
+
+
+## Responsabilité juridique 
+
+Les réseaux sociaux tels que Facebook et Twitter sont des hébergeurs qui mettent à la disposition des utilisateur⸱ice⸱s des espaces que ces dernier⸱e⸱s utilisent sous leur propre responsabilité. 
+
+En tant qu'éditeur⸱ice du contenu de sa page personnelle, le⸱la journaliste engage donc sa responsabilité sur le contenu de cette page et répond des éventuelles infractions qui pourraient y être commises. Dans la mesure où le contenu est posté par le⸱la journaliste dans le cadre de ses fonctions, Journalistes Solidaires peut également voir sa responsabilité engagée. Il convient donc d'être particulièrement vigilant⸱e dans le respect du présent guide et plus généralement des principes, des lois et règlements relatifs à la liberté d'informer et ses limites.
+
