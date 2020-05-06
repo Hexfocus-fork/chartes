@@ -75,6 +75,17 @@
 - [Responsabilité juridique](https://github.com/Journalistes-Solidaires/chartes/blob/master/4.%20Reseau%20sociaux.md#responsabilit%C3%A9-juridique)
 
 
+## [Production vidéo]
+
+- [Je souhaite que mon sujet soit exploité en vidéo]()
+- [La narration]()
+- [Le choix des images]()
+- [Du point de vue technique]()
+- [Contraintes techniques]()
+- [Validation du script]()
+- [Intégration du⸱de la monteur⸱euse]()
+- [Correction et relecture]()
+- [Diffusion]()
 
 
 
