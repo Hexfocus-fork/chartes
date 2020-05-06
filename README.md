@@ -62,3 +62,22 @@
 
 
 ## [Utilisation de nos réseaux sociaux](https://github.com/Journalistes-Solidaires/chartes/blob/master/4.%20Reseau%20sociaux.md)
+
+- [Facebook](https://github.com/Journalistes-Solidaires/chartes/blob/master/4.%20Reseau%20sociaux.md#facebook)
+	- [Priorité au format le plus accrocheur](https://github.com/Journalistes-Solidaires/chartes/blob/master/4.%20Reseau%20sociaux.md#priorit%C3%A9-au-format-le-plus-accrocheur)
+	- [Des formats bien déterminés pour les publications](https://github.com/Journalistes-Solidaires/chartes/blob/master/4.%20Reseau%20sociaux.md#des-formats-bien-d%C3%A9termin%C3%A9s-pour-les-publications-enqu%C3%AAtes-js-et-d%C3%A9bunks-externes)
+- [Twitter](https://github.com/Journalistes-Solidaires/chartes/blob/master/4.%20Reseau%20sociaux.md#twitter)
+	- [Pour les enquêtes JS](https://github.com/Journalistes-Solidaires/chartes/blob/master/4.%20Reseau%20sociaux.md#pour-les-enqu%C3%AAtes-js)
+	- [Pour les repostings debunks](https://github.com/Journalistes-Solidaires/chartes/blob/master/4.%20Reseau%20sociaux.md#pour-les-repostings-debunks)
+		- [Construction de listes](https://github.com/Journalistes-Solidaires/chartes/blob/master/4.%20Reseau%20sociaux.md#construction-de-listes)
+- [YouTube](https://github.com/Journalistes-Solidaires/chartes/blob/master/4.%20Reseau%20sociaux.md#youtube)
+- [Modération des comptes : que faire ?](https://github.com/Journalistes-Solidaires/chartes/blob/master/4.%20Reseau%20sociaux.md#mod%C3%A9ration-des-comptes--que-faire-)
+- [Responsabilité juridique](https://github.com/Journalistes-Solidaires/chartes/blob/master/4.%20Reseau%20sociaux.md#responsabilit%C3%A9-juridique)
+
+
+
+
+
+
+
+
