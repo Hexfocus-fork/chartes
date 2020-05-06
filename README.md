@@ -75,17 +75,17 @@
 - [Responsabilité juridique](https://github.com/Journalistes-Solidaires/chartes/blob/master/4.%20Reseau%20sociaux.md#responsabilit%C3%A9-juridique)
 
 
-## [Production vidéo]
+## [Production vidéo](https://github.com/Journalistes-Solidaires/chartes/blob/master/5.%20Production%20vid%C3%A9o.md)
 
-- [Je souhaite que mon sujet soit exploité en vidéo]()
-- [La narration]()
-- [Le choix des images]()
-- [Du point de vue technique]()
-- [Contraintes techniques]()
-- [Validation du script]()
-- [Intégration du⸱de la monteur⸱euse]()
-- [Correction et relecture]()
-- [Diffusion]()
+- [Je souhaite que mon sujet soit exploité en vidéo](https://github.com/Journalistes-Solidaires/chartes/blob/master/5.%20Production%20vid%C3%A9o.md#je-souhaite-que-mon-sujet-soit-exploit%C3%A9-en-vid%C3%A9o)
+- [La narration](https://github.com/Journalistes-Solidaires/chartes/blob/master/5.%20Production%20vid%C3%A9o.md#la-narration)
+- [Le choix des images](https://github.com/Journalistes-Solidaires/chartes/blob/master/5.%20Production%20vid%C3%A9o.md#le-choix-des-images)
+- [Du point de vue technique](https://github.com/Journalistes-Solidaires/chartes/blob/master/5.%20Production%20vid%C3%A9o.md#du-point-de-vue-technique-)
+- [Contraintes techniques](https://github.com/Journalistes-Solidaires/chartes/blob/master/5.%20Production%20vid%C3%A9o.md#contraintes-techniques)
+- [Validation du script](https://github.com/Journalistes-Solidaires/chartes/blob/master/5.%20Production%20vid%C3%A9o.md#validation-du-script)
+- [Intégration du⸱de la monteur⸱euse](https://github.com/Journalistes-Solidaires/chartes/blob/master/5.%20Production%20vid%C3%A9o.md#int%C3%A9gration-dude-la-monteureuse)
+- [Correction et relecture](https://github.com/Journalistes-Solidaires/chartes/blob/master/5.%20Production%20vid%C3%A9o.md#correction-et-relecture)
+- [Diffusion](https://github.com/Journalistes-Solidaires/chartes/blob/master/5.%20Production%20vid%C3%A9o.md#diffusion)
 
 
 
