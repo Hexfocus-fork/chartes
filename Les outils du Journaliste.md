@@ -1,0 +1,348 @@
+Bonjour à tou⸱te⸱s,
+Ce guide a été rédigé pour les journalistes travaillant pour l’association JS - Journalistes Solidaires cependant il est adaptable à n’importe quel⸱le journaliste souhaitant protéger son activité en ligne. 
+
+
+# La communication
+## Intro
+
+La communication est un des points primordiaux dans le travail du journaliste, il est donc important de prendre conscience que **tout ce que vous dites sur internet est potentiellement stocké et leaké** quelque part. **Il est impossible de garantir à 100% la sécurité d’un système**, il est donc très important en tant que journaliste de prendre conscience de ce fait et d’agir en conséquence lors de vos communications en prenant **le plus de précautions possible** pour vous protéger et protéger vos sources. 
+
+
+## Mail
+
+JS mets à votre disposition une boîte email sécurisée et encryptée. 
+Vous pouvez obtenir l’accès à celle-ci auprès de votre responsable de département. 
+
+
+![La boîte de réception de La Technique](https://paper-attachments.dropbox.com/s_DDCF8915682EB26F0FD0373239192C13D8C71357A73C2231753DD98EFDF26570_1587393361125_Capture+decran+2020-04-20+a+16.35.33.png)
+
+
+JS utilise comme fournisseur **Protonmail** qui est un des services les plus efficaces permettant de garantir la sécurité de votre correspondance électronique. N’utilisez en aucun cas un fournisseur de mail tel quel Outlook, Yahoo ou GMail pour contacter vos sources, **ceux ci ne peuvent garantir la confidentialité de votre correspondance**.
+
+Conseillez à vos sources de se créer un compte gratuit si elles n’en possèdent pas et effectuez une vérification de la clef de chiffrement de chaque email pour en assurer l’intégrité. 
+
+Chaque département (Technique, Rédaction, Production Vidéo, Communication, Trésorerie) dispose d’une boîte commune pour laquelle il est possible de vous créer **une adresse mail d’alias**. C’est à dire que vous pourriez avoir une adresse prénom.n@journalistessolidaires.com, qui en fait de boîte de réception, renvoie tous les mails qui lui sont adressés vers département@journalistessolidaires.com.
+
+**Installation**
+
+    Pour bénéficier d’une adresse ProtonMail, demandez à @La Technique sur Discord dans le salon dédié, puis [rendez-vous sur le webmail](https://mail.protonmail.com/login) pour accéder à vos mails. Si vous utilisez l’application Mail sous Mac, vous pouvez éventuellement installer [ProtonMail Bridge](https://protonmail.com/bridge/install) pour chiffrer vos échanges de mails depuis l’application. Attention cependant ! Ne faites ceci que si votre session est elle-même déjà chiffrée, car un mail téléchargé par l’application est en clair sur votre disque dur sans cela.
+
+https://protonmail.com
+
+
+
+## Messagerie
+
+Il existe de nombreuses applications pour envoyer des messages en direct cependant une seule possède toutes les fonctionnalités et sécurités nécessaires afin de garantir la confidentialité de vos données : **Signal**  
+
+Signal vous permet de téléphoner en mode chiffré par ZRTP et d'envoyer des messages de texte chiffrés par un protocole cryptographique libre nommé Signal Protocol. 
+
+Attention, étant donné le chiffrement de l’application il vous sera impossible d’enregistrer vos communications téléphonique Signal en utilisant une autre application, vous devrez si vous le souhaitez utiliser un dispositif externe d’enregistrement. 
+
+
+https://www.dropbox.com/s/srspvnq7b90mit5/Signal.mp4?dl=0
+
+
+Afin d’assurer la sécurité de votre correspondance il existe un système de validation de votre correspondant par un code unique généré par l’application. Si le numéro de votre correspondant⸱e devait être imité par un intrus ce code vous indiquera que le message n’a pas été émis par votre correspondant⸱e mais par une entité tierce. 
+
+Signal possède également son propre clavier qui n’enregistre aucune de vos frappes, il est fortement conseillé d’utiliser ce clavier et de désactiver dans les paramètres de la conversation la possibilité de prendre des captures d’écrans. 
+
+Si vous souhaitez une sécurité maximale de votre correspondance vous pouvez également activer l’effacement automatique des messages afin que ceux ci ne soient pas stockés (bien que le stockage de l’application soit encrypté et qu’il soit possible d’en protéger l’accès par code ou empreinte) 
+
+Attention : les pièces jointes transmises via l’application ne sont pas sauvées sur votre téléphone sauf si vous le faites manuellement. Si vous définissez un temps d’expiration sur vos messages il vous faut donc sauver les pièces jointes au fur et à mesure de la réception des messages. Il vous est conseillé de faire très attention lors du téléchargement de ces pièces jointes car elles rejoindront le stockage global de votre téléphone et seront donc éventuellement accessibles par d’autres applications. 
+
+**Installation**
+
+    Un compte Signal a besoin pour fonctionner d’un **numéro de téléphone**. Vous pouvez donc commencer par l’installation de l’appli mobile ([Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [iPhone](https://apps.apple.com/us/app/signal-private-messenger/id874139669)), puis dans un second temps installer la version desktop ([Mac](https://updates.signal.org/desktop/signal-desktop-mac-1.33.1.dmg), [PC](https://updates.signal.org/desktop/signal-desktop-win-1.33.1.exe), [Linux](https://signal.org/fr/download/#)) pour vous simplifier les échanges par clavier plutôt que du bout du pouce !
+
+https://signal.org
+
+
+## Interview son et image
+![Dashboard et fenêtre d’enregistrement d’EnnuiCastr](https://paper-attachments.dropbox.com/s_DDCF8915682EB26F0FD0373239192C13D8C71357A73C2231753DD98EFDF26570_1587388897096_Capture+decran+2020-04-20+a+15.21.04.png)
+
+
+EnnuiCastr est un outil d’enregistrement audio très pratique pour les **interviews**. En plus d’**enregistrer les pistes de chaque intervenant séparément** et en haute qualité, il a la particularité de proposer après l’enregistrement un projet Audacity téléchargeable pour commencer à monter l’interview si nécessaire.
+
+Inviter un⸱e intervenant⸱e externe fonctionne sans inscription nécessaire de sa part, en lui envoyant un **lien d’invitation** à l’enregistrement, sur lequel il⸱elle devra simplement accepter les autorisations d’accès au micro et au haut-parleur pour entendre et être entendu⸱e⸱e.
+
+Le fichier son contenant les réponses de votre interlocuteur doit également être ajouté aux « **Call Logs** » de votre fiche de travail sur AirTable.
+
+Pour enregistrer la vidéo pendant une interview :
+
+- Si vous êtes sous Mac, vous pouvez, une fois la caméra de votre interlocuteur en plein écran, utiliser le raccourci    `⌘ + MAJ + 5`  
+- Pour Windows et toutes les plateformes, vous pouvez utiliser OBS (Open Broadcaster Software)
+
+
+**Installation**
+
+    - Vous aurez besoin de vous créer un compte [sur le site d’EnnuiCastr](https://ennuicastr.com/panel/login/) et de créer un enregistrement sur votre dashboard. **Récupérez ensuite le lien d’invitation** à transmettre aux intervenants par mail ou par texto.
+    - Si vous savez monter du son, n’hésitez pas non plus à installer **Audacity** ([PC](https://www.audacityteam.org/download/windows/), [Mac](https://www.audacityteam.org/download/mac/)) si ce n’est pas déjà fait.
+    - Pour OBS, téléchargez et installez pour [Windows](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-25.0.4-Full-Installer-x64.exe), [Mac](https://cdn-fastly.obsproject.com/downloads/obs-mac-25.0.7.dmg) ou [Linux](https://obsproject.com/wiki/install-instructions#linux)
+
+https://ennuicastr.com
+
+# Assurer votre sécurité
+## Protéger vos données
+
+À tout instant, une personne mal intentionnée qui entrerait en possession de l’un de vos appareils est susceptible d’en extraire les données contenues. Soyons clairs : **votre mot de passe de session n’est pas un obstacle**, à défaut d’être deviné, il peut carrément être contourné sur nombre d’appareils.
+
+Pour être sûr de parer à cette éventualité, vous pouvez **chiffrer le stockage de vos appareils**. De sorte que, sans le mot de passe de session, les données extraites ne seront qu’un indéchiffrable charabia. Chaque système d’exploitation a sa propre façon de chiffrer ses données, voici donc une liste (non-exhaustive) des tutoriels à suivre :
+
+**Installation**
+
+    - [Windows](https://support.microsoft.com/fr-fr/help/4028713/windows-10-turn-on-device-encryption)
+    - [Mac](https://support.apple.com/fr-fr/HT204837)
+    - [Linux](https://doc.ubuntu-fr.org/tutoriel/chiffrer_son_disque) (Debian based distributions)
+    - [Android](https://korben.info/cest-moment-de-chiffrer-telephone-android.html)
+    - [iOS](https://ssd.eff.org/fr/module/guide-pratique-chiffrer-votre-iphone)
+
+
+## Un système d’exploitation pour un anonymat total
+
+Si vous êtes un⸱e *geek* absolu, que vous travaillez sur une enquête sensible, et que rien ne vous fait peur, il y a aussi une solution encore plus radicale pour vous : [Tails](https://tails.boum.org/). Le système d’exploitation le moins traçable et peut-être le plus sûr au monde (d’autres lui préfèreront [Kali](https://www.kali.org/), mais il faut être un rien plus aguerri⸱e).
+
+Il s’agit d’une distribution Linux légère et chiffrée et où **les données ne sont pas persistantes.** C’est à dire qu’à chaque redémarrage, toutes les données qui ne sont pas le système lui-même sont effacées**.** À installer sur une clé USB et à avaler le jour où la police fait une perquisition chez vous 😬. Pour un maximum de sécurité, installez votre Tails… depuis Tails (oui, il faudra deux clés USB).
+
+Quand vous démarrez sur Tails, la possibilité d’ouvrir **un coffre-fort persistant** contenant vos documents sensibles avec une phrase de passe vous est proposée, et la navigation web se fait uniquement sur [Tor](https://www.torproject.org/). Point bonus si vous avez une petite clé wifi pour ne pas utiliser votre carte réseaux et que vous vous connectez depuis un hotspot gratuit. Oui, on est paranos.
+
+**Installation**
+
+    - Suivez le guide pas à pas [sur le site de Tails](https://tails.boum.org/install/index.fr.html)
+    - Mieux vaut avoir deux clés d’au moins 8Go pour permettre une seconde installation depuis Tails vers Tails (intraçable). La clé finale peut avoir plus de capacité de stockage pour le coffre-fort persistant
+    - Envisagez de [vous munir d’une clé wifi USB](https://www.amazon.fr/gp/product/B003MTTJOY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) (elles ne sont pas toutes compatibles, on vous recommande [celle-là](https://www.amazon.fr/gp/product/B003MTTJOY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1))
+
+https://tails.boum.org
+
+
+## La Navigation Web
+![Panopticlick vous prouve que votre empreinte digitale est unique](https://paper-attachments.dropbox.com/s_E4E824DFAB95B9F45D918DEE8A0A9C60517D34CDF734DAF607BC45D340E55425_1587541064854_Capture+decran+2020-04-22+a+09.37.22.png)
+
+
+Lorsque vous naviguez sur un site internet il est important de prendre conscience que vous laissez toujours des traces. Adresse IP, navigateur, fonctionnalités, système d’exploitation, … il est assez simple pour un⸱e développeur⸱euse de récupérer toutes ces informations et bien d’autres à votre insu. Chaque information séparée peut sembler ne pas avoir un grand impact sur votre identité mais combinées et recoupées il devient assez simple de tracer un⸱e internaute et de remonter jusqu’à la personne exacte surfant sur un site internet (vous ne nous croyez pas sur parole ? Tant mieux : [faites le test ici](https://firstpartysimulator.net/kcarter?aat=1&dnt=1&t=1)). Comme pour la plupart des menaces sur internet ce n’est souvent qu’une question de moyens et de volonté. 
+
+JS met à votre disposition un ensemble de serveurs Proxy grâce à notre partenaire ProtonMail permettant de rendre votre surf totalement anonyme ou au moins plus difficilement identifiable. L’utilisation d’un proxy vous permet également d’accéder à des ressources qui pourraient ne pas être disponible depuis le pays ou vous vous trouvez en raison de restrictions géographique. Ou de vous connecter à des site présents sur le réseau [TOR](https://torproject.org) ( a.k.a le Darknet ) 
+
+Il est entendu qu’il ne sert à rien de vous connecter à un serveur proxy si vous utilisez votre navigateur Google Chrome connecté à une session à votre nom si vous souhaitez que votre surf reste anonyme… Nous vous conseillons dans ce cas de préférer par exemple Firefox et d’utiliser des onglets de navigation privée.
+
+**Installation**
+
+    - Pour la navigation courante et pour échapper à la plupart des trackings publicitaires il existe des extensions bloquant les traceurs comme [Privacy Badger](https://privacybadger.org/), développé par l’[EFF](https://www.eff.org/) (Electronic Frontier Foundation)
+    - Installez l’application ProtonVPN ([Windows](https://protonvpn.com/download/ProtonVPN_win_v1.14.3.exe), [Mac](https://protonvpn.com/download/ProtonVPN.dmg), [Linux](https://protonvpn.com/support/linux-vpn-tool/)) et demandez les codes d’accès à votre responsable de département. 
+
+Attention, nous disposons d’un nombre limité de connexions simultanées par compte (5 pour l’ensemble de la rédaction). Merci de limiter l’usage des VPN à vos enquêtes et pas pour les sites de streaming d’autres pays… 
+
+
+https://protonvpn.com/
+
+
+
+## Éviter les regards indiscrets
+
+Si vous travaillez souvent sur vos enquêtes dans des lieux publics, cafés, trains, vous vous êtes peut-être déjà demandés comment soustraire votre écran aux yeux des personnes environnantes. Il existe une solution matérielle : **les filtres de confidentialité**.
+
+Ce sont de fines couches de plastique traité à coller et décoller de vos écrans portables pour limiter le champ de diffusion de vos écrans à 60° (au lieu de 120°). Il en existe de plusieurs sortes, noirs, dorés ou [double face](https://www.amazon.fr/gp/product/B07GBD18P3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). La société connue pour ses adhésifs, [3M, est le leader du marché](https://www.3mfrance.fr/3M/fr_FR/confidentialite-protection/produits/filtres-confidentialite/) à ce jour.
+
+**Installation**
+
+    Trois bouts d’adhésifs fournis dans [le colis](https://www.amazon.fr/gp/product/B07GBD18P3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+
+## Protéger votre vie privée 
+
+Bienvenue dans le monde des *fact checkers,* globalement personne ne sera content de votre travail et il y a de grandes chances qu’un jour vous fâchiez quelqu’un pour une raison X ou Y. 
+
+Afin de garantir votre sécurité et celle de vos proches nous vous conseillons l’application [Jumbo](/ep/redirect/external-link?url=https%3A%2F%2Fwww.jumboprivacy.com%2F&hmac=HH8RMgG6MM4w6rqEAAkgVdR%2B0EjNCIWUjoVbO3cQoZY%3D).
+
+Installez l’application sur votre téléphone et connectez là à votre compte Google, Facebook, Twitter ou encore Amazon. L’application se chargera de supprimer les données que vous ne souhaitez pas voir conservées par ses services. Elle peux également modifier qui peux voir vos anciens posts Facebook ou encore effacer vos anciens tweets.
+
+
+https://www.jumboprivacy.com/
+
+
+
+## Gérer vos mots de passe
+
+Vous l’avez déjà probablement entendu et pourtant vous allez encore le lire une fois ici :  
+
+
+                         **U****TILISEZ UN GESTIONNAIRE DE MOT DE PASSE** ****
+
+Il est humainement impossible de retenir un mot de passe différent pour chaque site que vous utilisez quotidiennement même si vous le vouliez. D’autre part, les piratages arrivent. C’est inéluctable. L’intérêt alors d’avoir un mot de passe différent pour chaque site prend tout son sens : une fuite de données chez untel ne vous met pas en péril chez tel autre.
+
+
+
+    Conseils pour générer un mot de passe suffisamment sécurisé et mémorisable
+       
+       - Cherchez une phrase ou une citation que vous connaissez par coeur. Ca peut être un poème, un passage d’un livre ou la réplique d’un film 
+    
+        > Sonnez, sonnez haut sur la joue, 
+        > Baisers de la franche amitié, 
+        > Comme un fils de neuf ans qui joue, 
+        > Petit tapageur sans pitié.
+    
+        - Prenez les première lettres de chaque mot tout en gardant les majuscules de début de phrase : 
+    
+        > SshljBdlfaCufdnaqjPtsp 
+    
+        - Vous obtenez un mot de passe on ne peut plus sécurisé ! 
+    
+    ndlr : cela fonctionne aussi avec des choses moins compliquées comme : 
+    
+        > Ya quel pourcentage de filles pour un mec ? - Ca dépend du mec ça.
+    
+        qui devient : 
+    
+        > YqpdfpumCddmç 
+    
+
+
+Ne notez jamais vos mots de passe par écrit sur un post-it ou dans un carnet, le *social engineering,* c’est à dire l’art d’obtenir une info auprès d’un intermédiaire humain, est la première source de fuites de données dans les entreprises.
+
+Mieux encore, si vous activez à chaque fois **l’authentification à double facteur** ([2FA](https://twofactorauth.org/)), même une fuite de données avec mot de passe ne peut pas aboutir à un piratage direct de votre compte. La double authentification, c’est une validation par un autre intermédiaire de votre identité. Google ou Facebook peuvent par exemple vous envoyer une notification push à valider sur votre mobile à la connexion. Mais la plupart du temps, **il s’agit d’un code à 6 chiffres**, reçu par texto, ou référencé dans une application tierce et valable pour un temps limité (entre 30 secondes et 10mn en général).
+
+**Installation**
+
+    - Nous vous conseillons d’utiliser le service [Bitwarden](/ep/redirect/external-link?url=https%3A%2F%2Fbitwarden.com%2F&hmac=DhiAeEArpSfS9FOWFW7vGz26pH9GJ2ps2caUm%2Btfm0c%3D) pour stocker l’ensemble de vos mots de passe. Le service est gratuit pour une utilisation en tant que particulier⸱e et son développement open-source est un gage de bonnes pratiques. 
+    - Pour centraliser vos codes d’authentification double facteurs, utilisez une appli de type Authenticator comme [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) ou [LastPass Authenticator](https://lastpass.com/auth/)
+
+
+https://bitwarden.com/
+
+
+
+
+# Les outils de vérification 
+## Pour les images 
+
+Souvent la première étape d’une vérification, la recherche inversée d’une image suspecte. 
+
+
+![](https://paper-attachments.dropbox.com/s_379C0A7C5099F4F79D4DEA96A936CC42E11EAB9D521E1A7E8C80C4436AF781D9_1587223816557_Capture+decran+2020-04-18+a+17.29.46.png)
+
+
+**La recherche inversée**
+Lorsque vous survolez une image dans le navigateur Google Chrome vous pouvez effectuer un clic droit sur n’importe quelle image. Dans le menu qui apparait sélectionnez l’option « *Rechercher une image sur Google*"  vous serez envoyez vers Google image à la recherche d’autres image similaires ou identiques. Ceci peut vous permettre de retrouver l’image originale, voir son auteur⸱e ou son contexte.  
+
+Vous n’êtes pas obligé⸱e⸱s de passer par le clic droit de Google Chrome pour faire cette recherche inversée, à vrai dire, la plupart des moteurs de recherche d’image possèdent cette fonctionnalité et il est très intéressant d’utiliser des moteurs externe tel que [Yandex.ru](https://yandex.ru/images/) ou encore [Baidu.com](https://www.baidu.com/) lors de vos recherches.  
+
+
+![](https://paper-attachments.dropbox.com/s_379C0A7C5099F4F79D4DEA96A936CC42E11EAB9D521E1A7E8C80C4436AF781D9_1587224443538_Capture+decran+2020-04-18+a+17.37.27.png)
+![](https://paper-attachments.dropbox.com/s_379C0A7C5099F4F79D4DEA96A936CC42E11EAB9D521E1A7E8C80C4436AF781D9_1587224432401_Capture+decran+2020-04-18+a+17.35.51.png)
+![](https://paper-attachments.dropbox.com/s_379C0A7C5099F4F79D4DEA96A936CC42E11EAB9D521E1A7E8C80C4436AF781D9_1587224115635_Capture+decran+2020-04-18+a+17.35.03.png)
+
+
+Vous pouvez également essayer d’analyser les méta données de votre image. Bien que souvent effacées par les sites sur lesquelles elles sont déposée il est parfois possible d’y retrouver quelques informations intéressantes. Vous pouvez utiliser des outils en ligne tels que [Metapicz.com](http://metapicz.com/) ou [Forensically](https://29a.ch/photo-forensics/) pour essayer de faire parler vos images. 
+
+
+
+## Pour les vidéos : InVID 
+
+Il existe un outil gratuit en ligne pour obtenir un maximum d’informations sur l’origine, la véracité ou la contextualisation d’une vidéo. [InVID](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) (In Video Veritas) est un plugin co-développé par l’AFP et la DW, entre autres partenaires. C’est un véritable couteau suisse de l’analyse vidéo, visant à aider les journalistes à évaluer la véracité des images et vidéos circulantes.
+
+
+![](https://paper-attachments.dropbox.com/s_379C0A7C5099F4F79D4DEA96A936CC42E11EAB9D521E1A7E8C80C4436AF781D9_1587225201674_invid.png)
+
+
+InVID est composé en réalité de 7 outils distincts : 
+
+**Analysis**
+Il s’agit de l’outil principal qui synthétise le plus d’informations. À partir de là vous pouvez ajouter le lien d’une vidéo et lancer son analyse. Vous obtiendrez selon les informations disponibles dans la vidéo : 
+
+
+    - Métadonnées
+    - Map
+    - Vérification d’images par recherche inversée en fragmentant la vidéo en plusieurs images
+
+
+**Keyframes**
+Après avoir collé ici l’URL d’une vidéo, celle-ci sera « découpée » par InVID en images plus précises que avec l’outil Analysis. Vous pourrez alors lancer de nouvelles recherches inversées. Ces vignettes de références sont appelées « keyframes ».
+
+**Thumbnails**
+Il s’agit de nouveau ici de permettre la recherche inversée de vignettes mais spécifiquement pour les vidéos issues de Youtube.
+
+**Twitter search** 
+Il s’agit d’une interface qui va vous permettre d’effectuer des recherche détaillées de vidéos ou d’images sur Twitter.
+
+**Magnifier**
+Cet outil va vous permettre d’appliquer des filtres à une image afin de pouvoir zoomer sur une partie de celle ci et de décrypter des informations qui ne sont pas forcément visibles directement. Comme dans Les Experts, oui.
+
+**Metadata** 
+Cet outil va se concentrer sur l’extraction des métadonnées des photos ou vidéos que vous lui confiez. Il faut toutefois savoir que la plupart des réseaux sociaux et sites d’hébergement en ligne suppriment les métadonnées présentes sur ces celles-ci lorsqu’elles sont uploadées.
+
+**Forensic** 
+En indiquant l’URL d’une photo ou en en ajoutant une, vous allez accéder à un outil de vérification très complet puisqu’il propose pas moins de 7 techniques différentes permettant de vérifier si une photo a été ou non modifiée. Il suffit de cliquer sur « What does it mean? » pour accéder à une explication a minima du fonctionnement de chacune. En bas de page vous pourrez générer un document PDF reprenant l’ensemble de résultats présentés.
+
+
+![](https://paper-attachments.dropbox.com/s_E4E824DFAB95B9F45D918DEE8A0A9C60517D34CDF734DAF607BC45D340E55425_1587634032391_Capture+decran+2020-04-23+a+11.26.56.png)
+
+
+**Bonus**
+Un menu contextuel au clic droit sur une image qui vous permet de faire une recherche inversée d’image sur tous les moteurs efficaces. 
+
+**Installation**
+
+    Pour installer InVid, vous devez disposer de Chrome ou de Firefox et installer l’extension correspondante ([Chrome](https://chrome.google.com/webstore/detail/fake-video-news-debunker/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=en), [Firefox](https://www.invid-project.eu/wp-content/uploads/2020/02/fake_news_debunker_by_invid_weverify-0.72-fx.zip)). Pour apprendre à utiliser l’outil, [consultez le tutoriel](https://youtu.be/RoMaa5PmINM) ci-dessous ⬇️ 
+https://www.youtube.com/watch?v=RoMaa5PmINM&
+
+
+[https://youtu.be/RoMaa5PmINM](https://youtu.be/RoMaa5PmINM)
+
+
+## Pour Facebook : WhoPostedWhat
+
+Cet outil complémentaire d’InVid pour la recherche sur les réseaux sociaux propose **une recherche avancée très simple d’utilisation pour Facebook**. Utilisant des dates, des mots clés et en cherchant entre les posts publics et ceux dans des groupes, il permet très souvent de remonter au⸱à la patient⸱e zéro d’une fakenews sur Facebook. In-dis-pen-sable.
+
+**Installation**
+
+    Une simple page web à mettre en favori.
+
+https://whopostedwhat.com/
+
+
+## Pour les lieux : Google StreetView et Wikimapia
+
+[Google street view](https://whopostedwhat.com/) est un merveilleux outil vous permettant de voyager à travers le monde et dans le temps (grâce à l’historique) sans jamais quitter le confort de votre canapé. Il se révèle être assez utile également si vous souhaitez établir la géolocalisation d’une image ou d’une vidéo 
+
+
+https://www.google.fr/maps
+
+
+Toutefois, il n’est pas rare que certains lieux militaires soient censurés sur les bases de données de Google. Heureusement, il existe (parfois) des moyens de contourner ces trous noirs avec des cartes open source. Par exemple [Wikimapia](http://wikimapia.org/) permet de switcher entre les vues satellites de plusieurs services de cartographie : Google, Bing, Yandex, Yahoo et OpenstreetMap.
+
+http://wikimapia.org/
+
+
+## Pour les sites web : Wayback Machine et Archive.today
+![La Wayback Machine du projet Internet Archive](https://paper-attachments.dropbox.com/s_DDCF8915682EB26F0FD0373239192C13D8C71357A73C2231753DD98EFDF26570_1587394853973_Capture+decran+2020-04-20+a+17.00.43.png)
+
+
+L’archiveur web est votre meilleur ami. Car le web n’est pas éternel. Encore moins quand il s’agit de Jean-Michel Truelle qui raconte encore une connerie sur Twitter. Ces contenus là on une fâcheuse tendance à disparaître mystérieusement.
+
+Heureusement il existe des projets comme The Internet Archive et archive.today qui **font une copie d’une page URL qui leur est envoyée**. Ce type d’outils ne fonctionne toutefois pas pour les vidéos, mais il présente également l’avantage de permettre la **redirection d’un contenu douteux vers une archive** - plutôt que vers le lien d’origine - pour ne pas lui donner plus d’influence.
+
+**Installation**
+
+    [Suivez le tutoriel d’utilisation](https://youtu.be/7aZI-KKjoqg) du Airtable Web Clipper ou rendez-vous sur les pages d’installation des extensions pour navigateur de ces deux outils ([Archive.is](http://archive.is/), Wayback Machine pour [Chrome](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) et [Firefox](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/)
+    
+https://www.youtube.com/watch?v=7aZI-KKjoqg&
+
+
+[https://youtu.be/7aZI-KKjoqg](https://youtu.be/7aZI-KKjoqg)
+
+
+# Illustrer son article 
+
+Lorsque vous ne disposez pas d'une photo que vous pouvez utiliser légalement, vous pouvez illustrer votre article en mettant comme "image d'illustration" une photo libre de droits. 
+Vous trouverez d'excellents exemples sur :
+ 
+
+https://unsplash.com/
+
+
+[Pexel](https://www.pexels.com/fr-fr/)s (qui recense également des vidéos libres de droits, pour varier les plan au montage
+ou encore [Pixabay](https://pixabay.com/fr/)
+
+
+
+
