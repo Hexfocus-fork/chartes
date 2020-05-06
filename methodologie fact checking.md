@@ -1,0 +1,105 @@
+# Les faits rien que les faits 
+
+
+## Vérifiabilité du sujet
+
+Avant même de vous lancer dans un processus de vérification, demandez-vous quels en sont les paramètres vérifiables.
+
+Il est par exemple impossible de prouver l’inexistence de quelque chose : vous ne pouvez pas prouver que les licornes n’existent pas, mais vous pouvez expliquer pourquoi c’est peu probable et pourquoi cette poudre de corne sur le marché de Wuhan n’est pas la source du CoVid-19.
+
+
+## Votre fact checking, rien que votre fact checking 
+
+Vous vous lancez dans une enquête, à la recherche de la vérité concernant une - et une seule - information sur laquelle il y a des doutes. Mais cette enquête n'est pas une investigation. Restez concentrés sur cette information à vérifier. Quelques conseils :
+
+
+![](https://paper-attachments.dropbox.com/s_E97FDED92F6C911658249C86FAC237A5A05F059E95CD2383FCA3A271C7718706_1587368721032_Capture+decran+2020-04-20+a+09.44.55.png)
+
+- Définissez bien votre angle. Il doit être précis. 
+- Définissez un premier plan d'attaque. Quels éléments vous faut-il pour répondre à votre assertion première ? Notez ce plan dans la To-do list de la fiche de Fact check
+- Lors de votre enquête, durant vos interviews ou la lecture de documents, vous découvriez sans doute des informations "explosives" dignes d'une investigation.  Ce n'est cependant pas notre métier. Référez-vous à l'assertion que vous débunkez et demandez vous si l'information en question apporte une réponse. 
+
+PS : en vrai, si t'as vraiment une info explosive, note-la quelque part, on a un autre format pour toi.
+
+
+## Si c’est pas sourcé, c’est que c’est pas vrai
+
+
+- Le ton d’un factcheck est toujours le plus neutre possible. Il PRÉSENTE les faits, ne les interprète pas. Un factcheck est écrit au présent et/ou conditionnel, et n’aime pas les adjectifs
+- Si vous ne savez pas, ou n’êtes pas sûrs, n’en parlez pas
+- Ce n’est pas le⸱la journaliste qui affirme, c’est une source. Elle doit donc être le plus fiable possible
+- TOUTE AFFIRMATION doit être sourcée par lien
+- Idéalement, toute affirmation en provenance d’une source de second degré (un témoin, une anecdote) doit avoir un contrepoint de même niveau ou de niveau supérieur
+# Gardez une trace de chaque étape de votre travail
+
+Toute action, analyse, document, information que vous découvrez lors de votre enquête doit être consignée. Nous ne pouvons pas nous permettre de vous croire sur parole même si vous disposez de toute notre confiance. **Le travail de fact checker est un travail rigoureux, quasi scientifique.** 
+
+Ne pensez jamais que quelque chose soit éternel sur internet. Faites toujours une sauvegarde de toutes vos informations localement sur votre ordinateur ou en utilisant des services d’archives tels que WaybackMachine.
+
+
+# Remontez à la source
+
+Qu’il s’agisse d’une photo, d’une vidéo ou d’un texte, votre premier réflexe doit être remonter à la source. Qui à posté cela, quand, était ce le⸱la premièr⸱e ? 
+
+
+## Pour les images et vidéos
+
+Les images sont la première chose qui touche un lecteur ou un spectateur. C'est donc aussi l'un des médiums les plus intéressants à utiliser ou à trafiquer pour créer une fausse information. 
+
+
+- Une photo d'un média sûr est légendée et datée
+- Utilisez les outils qui sont à votre disposition pour les analyser
+- Utilisez les indices visuels sur lesquels vous pouvez travailler
+- Vérifiez la cohérence basique de l’image (si vous voyez de la neige et que l’on parle d’un événement dans le Sahara, ça ne colle pas) 
+- Vérifiez si il ne s’agit pas d’un montage, souvent vous trouverez des détails qui ne concordent pas
+
+
+## Pour les textes 
+
+
+- Utilisez les moteurs de recherche pour essayer de contextualiser le texte. 
+- Si un propos est attribué à une personne essayez de rentrer en contact avec cette personne ou du moins d’obtenir une source fiable de l’ensemble de son intervention (audio, vidéo, PV, … ) 
+- Si il s’agit de document écrit dans une langue que vous ne comprenez pas travaillez avec un⸱e traducteur⸱ice autonome et demandez lui une traduction littérale sans interprétation, faites valider cette traduction par un⸱e second⸱e traducteur⸱ice.
+
+
+## Pour les études, parutions scientifiques et analyses chiffrées 
+
+
+- Recherchez la source de l’étude, ses rédacteur⸱ice⸱s, ses promoteur⸱ice⸱s, ses financements
+- Comprenez la méthodologie appliquée : Étude randomisée ? Groupe contrôle ? Placebos ? Biais d’échantillonnage ?
+- Déduisez-en le niveau de preuve de cette source : étude préliminaire < réplication < revue de la littérature < méta-analyse < consensus scientifique
+- Ne faites jamais d’amalgame entre corrélation et causalité, ne tirez pas de conclusions abusives du résultat d’une étude
+- Citez dans le papier tout ce qui mérite de prendre les résultats rapportés avec précautions
+
+
+
+# Confrontez les informations 
+
+Lorsqu’un information est diffusée il est rare que nous ne trouviez pas une section commentaire ou de nombreuses personnes vont s’exprimer. Certain•e•s de ces internautes peuvent posséder des informations contradictoire ou peuvent mettre en cause la véracité d’un contenu. Il est toujours bon de se tourner vers ces personnes afin d’obtenir leur version des faits. 
+
+Si votre enquête repose sur une photo ou une vidéo cherchez d’autres images de la même scène ou du même évènement pour les confronter. Même sans le faire de façon volontaire il est possible que des informations soient manquantes pour comprendre le contexte d’une scène et la décrypter correctement. 
+
+
+# Sollicitez les bonnes sources 
+
+Il est impossible de tout connaître. Même si vous pensez être un⸱e expert⸱e en la matière demandez toujours de l’aide à d’autres spécialistes. Une double vérification n’est jamais superflue. N’hésitez pas à solliciter médecins, économistes, avocat⸱e⸱s, syndicalistes, il⸱elle⸱s seront généralement ravi⸱e⸱s de vous exposer leur point de vue. 
+
+Si votre enquête repose sur une photo ou une vidéo essayez avant toute chose de contacter l’auteur⸱e de l’enregistrement originel et recueillez son témoignage.
+
+Si les informations sont de nature sensible, n’hésitez pas à proposer l’anonymat. Cela ne constitue un problème que si vous n’êtes pas en mesure de prouver l’origine ou la fiabilité des propos rapportés.
+
+
+
+# Sortez d’internet
+
+Téléphonez, parlez avec les acteur⸱ice⸱s de votre enquête, les informations viendront rarement à vous, c’est à vous d’aller les chercher! 
+
+
+# Ne faites relire que les citations
+
+Il arrive parfois que certain⸱e⸱s interviewé⸱e⸱s demandent à relire leurs propos avant publication. Si tel est le cas, ne faites relire que les citations utilisées dans l’article. 
+Si la personne revient sur ses déclarations, que faire ?
+
+- La personne précise son propos sans en changer le sens : après jugement de la pertinence de cette précision pour votre article, vous la rajoutez à l’intérieur.
+- La personne change le sens de son propos : c’est pas très sympa 
+
